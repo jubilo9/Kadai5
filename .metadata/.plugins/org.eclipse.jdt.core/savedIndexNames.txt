@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/home/usrc/g13944sm/mac/Documents/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1993042143.index
