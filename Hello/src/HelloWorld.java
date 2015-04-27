@@ -4,6 +4,6 @@ public class HelloWorld {
 		// TODO code application logic here
 		System.out.println("hello world");
 		System.out.println("‚±‚ñ‚É‚¿‚Í¢ŠE");
-		System.out.println(10+5);
+		System.out.println(10);
 	}
 }
