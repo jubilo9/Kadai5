@@ -12,5 +12,6 @@ public class IntToEngTest {
 		String expected = "three";
 		String actual = ite.translateEng(3);
 		assertEquals(actual,expected);
+		
 	}
 }

@@ -18,7 +18,7 @@ public class IntToEng {
 	    static String translateEng(int n) {
 	    	String []eng1={"zero","one","two","three","four","five","six","seven","eight","nine","ten","eleven","twenteen","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nighteen"};
 	    	String []eng2={"twenty","thirty","forty","fifty","sixty","seventy","eighty","ninety"};
-	    	return eng1[n];
+	    	return eng1[n]+" ";
 	    }
 	}
 
